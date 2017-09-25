@@ -1,0 +1,15 @@
+{
+    "name": "lincode/commons",
+    "license": "MIT",
+    "type": "library",
+    "description": "CMS - Desenvolvido pela Lincode",
+    "authors": [
+        {
+            "name": "Fernando Cezar Chaves",
+            "email": "fernandocchaves@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Lincode\\Commons\\Bundle\\": "" }
+    }
