@@ -13,3 +13,4 @@
     "autoload": {
         "psr-4": { "Lincode\\Commons\\Bundle\\": "" }
     }
+}
